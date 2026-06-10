@@ -1,4 +1,4 @@
-# 
+# Instantâneo Ollama extensões. Com fluxos de trabalho automatizados e raciocínio automatizado — otimizado para máximo desempenho e eficiência.
 
 
 
